@@ -1,19 +1,15 @@
 ---
 layout: page
-title: About Pixyll
+title: About Me
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+![Brad Schulz](http://photos.schulzfamily.org/photos/i-H77L232/0/Th/i-H77L232-Th.jpg)
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+My name is Brad Schulz, a technology executive living in Tampa, FL.  I have been [married](http://photos.schulzfamily.org/Other/About-Me/n-msfG3/i-fdNJMfJ/A) for 25 years (wow!) and have 3 [children](http://photos.schulzfamily.org/Other/About-Me/n-msfG3/i-fdNJMfJ/A).
 
-Thanks to the following:
+Earlier in my career I used to write database and SQL related material for many different sites.  I created this site to encourage myself to write more.
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+The topics I read, research, and think about are mostly technology related. However, as a Christian, I am also very interested in world and people related issues.
+
+
